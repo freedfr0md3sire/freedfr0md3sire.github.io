@@ -9,7 +9,7 @@ description: 'Web, Security, Blog'
 keywords:
 author: freedFr0md3sire
 language: en
-timezone: 'en-US'
+timezone: 'UTC'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'

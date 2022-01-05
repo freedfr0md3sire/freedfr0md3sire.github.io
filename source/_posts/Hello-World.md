@@ -5,6 +5,6 @@ tags: Intro, Hello
 description: my description
 ---
 
-This is my blog and you're watching the first post.
+This is my blog, and you're watching the first post.
 
 This blog will focus on web security and exploitation while aiming at learning as much as possible.
